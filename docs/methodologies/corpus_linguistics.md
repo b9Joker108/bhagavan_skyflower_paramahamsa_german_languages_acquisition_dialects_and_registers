@@ -135,7 +135,7 @@ head(colls, 20)
 
 #### Example: KWIC Analysis
 ```python
-from nltk.corpus import ConcsordanceIndex
+from nltk import ConcordanceIndex
 
 def kwic_analysis(corpus, keyword, window=5):
     """

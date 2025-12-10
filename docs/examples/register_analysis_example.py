@@ -10,6 +10,7 @@ import spacy
 from collections import Counter
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 class GermanRegisterAnalyzer:
@@ -251,8 +252,6 @@ def example_usage():
     print(df.to_string())
     
     # Visualize key differences
-    import matplotlib.pyplot as plt
-    
     features_to_plot = [
         'avg_sentence_length', 
         'subordination_ratio',
