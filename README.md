@@ -1,2 +1,0 @@
-# bhagavan_skyflower_parmahamsa_german_languages_acquisition_dialects_and_registers
-Another little treasured repo from SubsySaabGosai
